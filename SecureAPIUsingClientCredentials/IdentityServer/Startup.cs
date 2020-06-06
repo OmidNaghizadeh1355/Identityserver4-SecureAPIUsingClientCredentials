@@ -26,7 +26,6 @@ namespace IdentityServer
         public void ConfigureServices(IServiceCollection services)
         {
             var builder = services.AddIdentityServer()
-                .AddInMemoryIdentityResources(Config.Ids)
                 .AddInMemoryApiResources(Config.Apis)
                 .AddInMemoryClients(Config.Clients);
 

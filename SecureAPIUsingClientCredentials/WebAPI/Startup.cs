@@ -24,7 +24,7 @@ namespace WebAPI
                     options.Authority = "https://localhost:5001";
                     options.RequireHttpsMetadata = false;
 
-                    options.Audience = "api1";
+                    options.Audience = "WebAPI";
                 });
         }
 

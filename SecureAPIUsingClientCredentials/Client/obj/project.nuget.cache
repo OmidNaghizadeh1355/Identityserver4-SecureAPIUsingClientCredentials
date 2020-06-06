@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LYrasRaPj68LcB5yuCNA+MNO/xQtrC/1yGx/sLQIju1T20wHKifppnuisEBLhynLJPobTqcDDkC5Jk5qHhzh+Q==",
+  "dgSpecHash": "/JaKJCta6MNFWNE6/YZHVdiajM5bZsNh+S818fVpBAZXecxfzI3Y79+lSp8459RZrw7V1EmQJ4Xu5w2ygaDHIA==",
   "success": true,
   "projectFilePath": "C:\\IdentityServer4\\IdentityServer4-SecureAPIUsingClientCredentials\\SecureAPIUsingClientCredentials\\Client\\Client.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EXOMNAG1\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\EXOMNAG1\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\EXOMNAG1\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -26,3 +26,4 @@ C:\IdentityServer4\IdentityServer4-SecureAPIUsingClientCredentials\SecureAPIUsin
 C:\IdentityServer4\IdentityServer4-SecureAPIUsingClientCredentials\SecureAPIUsingClientCredentials\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CoreCompileInputs.cache
 C:\IdentityServer4\IdentityServer4-SecureAPIUsingClientCredentials\SecureAPIUsingClientCredentials\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\IdentityServer4\IdentityServer4-SecureAPIUsingClientCredentials\SecureAPIUsingClientCredentials\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csproj.CopyComplete
+C:\IdentityServer4\IdentityServer4-SecureAPIUsingClientCredentials\SecureAPIUsingClientCredentials\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.csprojAssemblyReference.cache
